@@ -1,0 +1,17 @@
+---
+title: "Slides de Fundamentos de Aquisição"
+format: html
+---
+
+
+
+## On-line (mais recursos)
+
+- [Estágios de Aquisição](/FundAquis/slides/FundAquis-1)
+- [Teorias de Aquisição (de primeira língua)](/FundAquis/slides/FundAquis-1)
+
+
+## PDF (para baixar e salvar)
+
+- [Estágios de Aquisição](/files/FundAquis-1.pdf)
+- [Teorias de Aquisição (de primeira língua)](/files/FundAquis-2.pdf)
