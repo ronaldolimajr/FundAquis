@@ -1,0 +1,17 @@
+---
+title: "Fundamentos de Aquisição da Linguagem"
+author: "Ronaldo Lima Jr."
+institute: "Universidade de Brasília (UnB)"
+format: 
+  revealjs: 
+    theme: moon
+editor: visual
+---
+
+# Teorias de Aquisição (de primeira língua)
+
+## Behaviorismo
+
+- B. F. Skinner
+
+
