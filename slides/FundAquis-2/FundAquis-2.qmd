@@ -12,6 +12,86 @@ editor: visual
 
 ## Behaviorismo
 
-- B. F. Skinner
+- O *Behaviorismo* é uma abordagem na *psicologia* que se concentra no estudo do *comportamento observável*
+- Desenvolvimento humano e aprendizagem são influenciados principalmente por fatores ambientais e experiências
 
+---
 
+- Ivan Pavlov introduziu o conceito de condicionamento clássico
+  - Demonstrou que os comportamentos podem ser aprendidos por meio de associações entre estímulos neutros e respostas naturais
+
+. . . 
+
+- B.F. Skinner desenvolveu a teoria do condicionamento operante
+  - Enfatiza a relação entre comportamento e consequências
+  - Reforço positivo/negativo e punição são usados para aumentar ou diminuir a probabilidade de um comportamento
+
+---
+
+- Albert Bandura introduziu a teoria da aprendizagem social
+  - Envolve a observação e imitação de comportamentos de modelos -- crianças aprendem observando e imitando
+  
+## Críticas ao Behaviorismo
+
+- O behaviorismo reduz a complexidade do desenvolvimento humano.
+- A ênfase no comportamento observável não considera processos cognitivos internos, emoções e motivação
+
+# Behaviorismo na aquisição da linguagem
+
+## Behaviorismo e Linguagem
+
+- O behaviorismo enfatiza o estudo do comportamento observável em vez de processos mentais internos
+- Na aquisição da linguagem, os behavioristas concentram-se em comportamentos linguísticos visíveis e mensuráveis
+
+## Condicionamento Clássico
+
+- Uma abordagem behaviorista inicial à aquisição da linguagem considerou a ideia de que as palavras e sons são condicionados de forma clássica
+  - As crianças associariam palavras com objetos ou eventos por meio da repetição e associação
+
+## Condicionamento Operante {.scrollable}
+
+::: {layout-ncol=2}
+![Verbal Behavior](FundAquis-2_files/verbalBehavior1.jpeg)
+
+![](FundAquis-2_files/verbalBehavior2.jpeg)
+:::
+
+--- 
+
+- *Verbal Behavior* (1957)
+- Tábula rasa (nada é inato)
+- *nature* vs *nurture*
+- A teoria do condicionamento operante sugere que as crianças aprendem a linguagem através do reforço e punição
+- Tentativas e erros
+- Comportamentos linguísticos adequados são reforçados (elogiados), enquanto comportamentos inadequados são punidos (corrigidos)
+
+## Modelagem e Imitação
+
+- As crianças aprendem observando e imitando adultos
+- Os modelos linguísticos fornecem um exemplo do uso correto da linguagem, e as crianças copiam esses modelos.
+
+## Críticas:
+- O behaviorismo não explica adequadamente a criatividade linguística das crianças
+- A ênfase nos comportamentos observáveis não considera a complexidade da estrutura da linguagem
+- Noam Chomsky argumentou que as crianças não podem adquirir a linguagem apenas por meio de reforço e condicionamento.
+  - *A Review of B. F. Skinner's Verbal Behavior* (1959)
+
+---
+
+::: aside
+From <https://youtu.be/S3g5YNRizJg?si=UbxzkEY0tvmpaQ6I>
+:::
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/S3g5YNRizJg?si=HNGG2WaKX7HUwZA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+::: aside
+From <https://youtu.be/iywfSC-_08E?si=O8y4duzkjTFmPEEJ>
+:::
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/iywfSC-_08E?si=ofTlvXTXSUVEL1GK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Inatismo
+
+*(em construção)*
