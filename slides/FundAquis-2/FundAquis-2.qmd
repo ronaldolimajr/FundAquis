@@ -94,4 +94,35 @@ From <https://youtu.be/iywfSC-_08E?si=O8y4duzkjTFmPEEJ>
 
 # Inatismo
 
+## Introdução
+
+- Proposta por *Noam Chomsky* na década de 1950, como crítica ao Behaviorismo
+- A teoria *inatista* (ou *inatismo*) é uma abordagem à aquisição da primeira língua que enfatiza a influência de fatores internos e biológicos
+- Sugere que os seres humanos nascem com uma predisposição inata para adquirir a linguagem
+  - Assim como para andar e para ver (!) 
+
+## Argumentos 
+- a rapidez com que as crianças aprendem a linguagem 
+- a capacidade de compreender e produzir estruturas linguísticas complexas
+- erros comuns que seguem padrões previsíveis
+- impossível encontrar no estímulo (*input*) tudo o que se adquire
+
+
+## LAD e UG
+
+- Chomsky postula a existência de um *Dispositivo de Aquisição de Linguagem* (LAD) no cérebro
+- O LAD é uma estrutura mental que permite que as crianças aprendam a linguagem de forma rápida e eficaz
+- O LAD abriga a *gramática universal* (UG)
+  - ideia de que todas as línguas compartilham certos princípios estruturais comuns
+  - Parâmetros e Princípios
+  - Competência e desempenho
+  - Formas subjacentes e de superfície
+
+## Críticas
+
+- A teoria inatista subestima a importância do ambiente e da interação social na aquisição da linguagem
+- Há debates sobre a natureza exata da gramática universal e do LAD
+
+# Interacionismo
+
 *(em construção)*
