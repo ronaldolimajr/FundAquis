@@ -12,117 +12,221 @@ editor: visual
 
 ## Behaviorismo
 
-- O *Behaviorismo* é uma abordagem na *psicologia* que se concentra no estudo do *comportamento observável*
-- Desenvolvimento humano e aprendizagem são influenciados principalmente por fatores ambientais e experiências
+-   O *Behaviorismo* é uma abordagem na *psicologia* que se concentra no estudo do *comportamento observável*
+-   Desenvolvimento humano e aprendizagem são influenciados principalmente por fatores ambientais e experiências
 
----
+------------------------------------------------------------------------
 
-- Ivan Pavlov introduziu o conceito de condicionamento clássico
-  - Demonstrou que os comportamentos podem ser aprendidos por meio de associações entre estímulos neutros e respostas naturais
+-   Ivan Pavlov introduziu o conceito de condicionamento clássico
+    -   Demonstrou que os comportamentos podem ser aprendidos por meio de associações entre estímulos neutros e respostas naturais
 
-. . . 
+. . .
 
-- B.F. Skinner desenvolveu a teoria do condicionamento operante
-  - Enfatiza a relação entre comportamento e consequências
-  - Reforço positivo/negativo e punição são usados para aumentar ou diminuir a probabilidade de um comportamento
+-   B.F. Skinner desenvolveu a teoria do condicionamento operante
+    -   Enfatiza a relação entre comportamento e consequências
+    -   Reforço positivo/negativo e punição são usados para aumentar ou diminuir a probabilidade de um comportamento
 
----
+------------------------------------------------------------------------
 
-- Albert Bandura introduziu a teoria da aprendizagem social
-  - Envolve a observação e imitação de comportamentos de modelos -- crianças aprendem observando e imitando
-  
+-   Albert Bandura introduziu a teoria da aprendizagem social
+    -   Envolve a observação e imitação de comportamentos de modelos -- crianças aprendem observando e imitando
+
 ## Críticas ao Behaviorismo
 
-- O behaviorismo reduz a complexidade do desenvolvimento humano.
-- A ênfase no comportamento observável não considera processos cognitivos internos, emoções e motivação
+-   O behaviorismo reduz a complexidade do desenvolvimento humano.
+-   A ênfase no comportamento observável não considera processos cognitivos internos, emoções e motivação
 
 # Behaviorismo na aquisição da linguagem
 
 ## Behaviorismo e Linguagem
 
-- O behaviorismo enfatiza o estudo do comportamento observável em vez de processos mentais internos
-- Na aquisição da linguagem, os behavioristas concentram-se em comportamentos linguísticos visíveis e mensuráveis
+-   O behaviorismo enfatiza o estudo do comportamento observável em vez de processos mentais internos
+-   Na aquisição da linguagem, os behavioristas concentram-se em comportamentos linguísticos visíveis e mensuráveis
 
 ## Condicionamento Clássico
 
-- Uma abordagem behaviorista inicial à aquisição da linguagem considerou a ideia de que as palavras e sons são condicionados de forma clássica
-  - As crianças associariam palavras com objetos ou eventos por meio da repetição e associação
+-   Uma abordagem behaviorista inicial à aquisição da linguagem considerou a ideia de que as palavras e sons são condicionados de forma clássica
+    -   As crianças associariam palavras com objetos ou eventos por meio da repetição e associação
 
 ## Condicionamento Operante {.scrollable}
 
-::: {layout-ncol=2}
+::: {layout-ncol="2"}
 ![Verbal Behavior](FundAquis-2_files/verbalBehavior1.jpeg)
 
 ![](FundAquis-2_files/verbalBehavior2.jpeg)
 :::
 
---- 
+------------------------------------------------------------------------
 
-- *Verbal Behavior* (1957)
-- Tábula rasa (nada é inato)
-- *nature* vs *nurture*
-- A teoria do condicionamento operante sugere que as crianças aprendem a linguagem através do reforço e punição
-- Tentativas e erros
-- Comportamentos linguísticos adequados são reforçados (elogiados), enquanto comportamentos inadequados são punidos (corrigidos)
+-   *Verbal Behavior* (1957)
+-   Tábula rasa (nada é inato)
+-   *nature* vs *nurture*
+-   A teoria do condicionamento operante sugere que as crianças aprendem a linguagem através do reforço e punição
+-   Tentativas e erros
+-   Comportamentos linguísticos adequados são reforçados (elogiados), enquanto comportamentos inadequados são punidos (corrigidos)
 
 ## Modelagem e Imitação
 
-- As crianças aprendem observando e imitando adultos
-- Os modelos linguísticos fornecem um exemplo do uso correto da linguagem, e as crianças copiam esses modelos.
+-   As crianças aprendem observando e imitando adultos
+-   Os modelos linguísticos fornecem um exemplo do uso correto da linguagem, e as crianças copiam esses modelos.
 
 ## Críticas:
-- O behaviorismo não explica adequadamente a criatividade linguística das crianças
-- A ênfase nos comportamentos observáveis não considera a complexidade da estrutura da linguagem
-- Noam Chomsky argumentou que as crianças não podem adquirir a linguagem apenas por meio de reforço e condicionamento.
-  - *A Review of B. F. Skinner's Verbal Behavior* (1959)
 
----
+-   O behaviorismo não explica adequadamente a criatividade linguística das crianças
+-   A ênfase nos comportamentos observáveis não considera a complexidade da estrutura da linguagem
+-   Noam Chomsky argumentou que as crianças não podem adquirir a linguagem apenas por meio de reforço e condicionamento.
+    -   *A Review of B. F. Skinner's Verbal Behavior* (1959)
+
+------------------------------------------------------------------------
 
 ::: aside
 From <https://youtu.be/S3g5YNRizJg?si=UbxzkEY0tvmpaQ6I>
 :::
 
-<iframe width="840" height="472" src="https://www.youtube.com/embed/S3g5YNRizJg?si=HNGG2WaKX7HUwZA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="840" height="472" src="https://www.youtube.com/embed/S3g5YNRizJg?si=HNGG2WaKX7HUwZA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
----
+</iframe>
+
+------------------------------------------------------------------------
 
 ::: aside
 From <https://youtu.be/iywfSC-_08E?si=O8y4duzkjTFmPEEJ>
 :::
 
-<iframe width="840" height="472" src="https://www.youtube.com/embed/iywfSC-_08E?si=ofTlvXTXSUVEL1GK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="840" height="472" src="https://www.youtube.com/embed/iywfSC-_08E?si=ofTlvXTXSUVEL1GK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
 
 # Inatismo
 
 ## Introdução
 
-- Proposta por *Noam Chomsky* na década de 1950, como crítica ao Behaviorismo
-- A teoria *inatista* (ou *inatismo*) é uma abordagem à aquisição da primeira língua que enfatiza a influência de fatores internos e biológicos
-- Sugere que os seres humanos nascem com uma predisposição inata para adquirir a linguagem
-  - Assim como para andar e para ver (!) 
+-   Proposta por *Noam Chomsky* na década de 1950, como crítica ao Behaviorismo
+-   A teoria *inatista* (ou *inatismo*) é uma abordagem à aquisição da primeira língua que enfatiza a influência de fatores internos e biológicos
+-   Sugere que os seres humanos nascem com uma predisposição inata para adquirir a linguagem
+    -   Assim como para andar e para ver (!)
 
-## Argumentos 
-- a rapidez com que as crianças aprendem a linguagem 
-- a capacidade de compreender e produzir estruturas linguísticas complexas
-- erros comuns que seguem padrões previsíveis
-- impossível encontrar no estímulo (*input*) tudo o que se adquire
+## Argumentos
 
+-   a rapidez com que as crianças aprendem a linguagem
+-   a capacidade de compreender e produzir estruturas linguísticas complexas
+-   erros comuns que seguem padrões previsíveis
+-   impossível encontrar no estímulo (*input*) tudo o que se adquire
 
 ## LAD e UG
 
-- Chomsky postula a existência de um *Dispositivo de Aquisição de Linguagem* (LAD) no cérebro
-- O LAD é uma estrutura mental que permite que as crianças aprendam a linguagem de forma rápida e eficaz
-- O LAD abriga a *gramática universal* (UG)
-  - ideia de que todas as línguas compartilham certos princípios estruturais comuns
-  - Parâmetros e Princípios
-  - Competência e desempenho
-  - Formas subjacentes e de superfície
+-   Chomsky postula a existência de um *Dispositivo de Aquisição de Linguagem* (LAD) no cérebro
+-   O LAD é uma estrutura mental que permite que as crianças aprendam a linguagem de forma rápida e eficaz
+-   O LAD abriga a *gramática universal* (UG)
+    -   ideia de que todas as línguas compartilham certos princípios estruturais comuns
+    -   Parâmetros e Princípios
+    -   Competência e desempenho
+    -   Formas subjacentes e de superfície
 
 ## Críticas
 
-- A teoria inatista subestima a importância do ambiente e da interação social na aquisição da linguagem
-- Há debates sobre a natureza exata da gramática universal e do LAD
+-   A teoria inatista subestima a importância do ambiente e da interação social na aquisição da linguagem
+-   Há debates sobre a natureza exata da gramática universal e do LAD
 
 # Interacionismo
 
-*(em construção)*
+## Introdução
+
+- InteracionismoS, abordagen*s* interacionista*s*, sociointeracionismo, Teoria Sociocultural, etc.
+  - Vários autores/teóricos, várias vertentes
+- Em todas elas:
+  - Comunicação é interação e interação é comunicação
+  - Linguagem é instrumento de comunicação
+  - Interação é *diálogo*, é proposição de problema, negociação de turno e de significado
+  
+- - - 
+
+> O interacionismo considera a aquisição da linguagem como um processo intrinsecamente relacionado ao desenvolvimento cultural e social da criança. 
+
+. . . 
+
+> As crianças aprendem a linguagem à medida que são imersas em um ambiente social e cultural que usa a linguagem para comunicação.
+
+- - - 
+
+## Teoria de Vygotsky
+
+- Zona de Desenvolvimento Proximal (ZDP)
+  - diferença entre o que uma criança pode fazer sozinha e o que ela pode fazer com a ajuda de um adulto ou um par mais habilidoso.
+  - a linguagem desempenha um papel crucial na ZDP, onde as interações sociais e linguísticas ajudam a criança a avançar em seu desenvolvimento linguístico.
+
+
+## {background-color="white" background-image="FundAquis-2_files/zdp.png"}
+
+## Teoria de Vygotsky
+- ZDP
+- **Scaffolding** Linguístico (andaimes)
+
+> Os adultos e pares mais competentes desempenham um papel importante no processo de aprendizagem da linguagem, oferecendo suporte, adaptando seu discurso e suas interações de acordo com o nível de habilidade da criança. Gradualmente, à medida que a criança ganha habilidades linguísticas, o adulto reduz o suporte, permitindo que a criança se torne mais independente em sua comunicação.
+
+## Teoria de Vygotsky
+- ZDP
+- *Scaffolding* Linguístico (andaimes)
+- **Internalização da Linguagem**: à medida que as crianças interagem e internalizam essas interações, a linguagem se torna uma função interna de pensamento e autorregulação. 
+- **Papel da Cultura**: a linguagem carrega valores, crenças e normas culturais -- As crianças aprendem não apenas palavras e estruturas, mas também a maneira como a linguagem é usada em seu contexto cultural específico.
+
+## Teoria de Wallon {.scrollable}
+- Emoção como Base para a Aquisição da Linguagem
+- Interação Social
+- Estágios do Desenvolvimento 
+  - impulsivo-emocional (0-1 ano)
+  - sensório-motor (1-3 anos)
+  - personalismo (3-6 anos) 
+  - categorial (a partir dos 6 anos)
+- Linguagem como expressão de sentimentos $\rightarrow$ Linguagem como ferramenta cognitiva
+- Desenvolvimento Holístico (aspectos emocionais, sociais, cognitivos e linguísticos)
+
+## Ênfases
+
+:::: {.columns}
+
+::: {.column width="33%"}
+![Jean Piaget](FundAquis-2_files/piaget.png)
+:::
+
+::: {.column width="33%"}
+![Lev Vygotsky](FundAquis-2_files/vygotsky.png)
+:::
+
+::: {.column width="33%"}
+![Henri Wallon](FundAquis-2_files/wallon.png)
+:::
+
+::::
+
+## 
+
+:::: {.columns}
+
+::: {.column width="20%"}
+![Jean Piaget](FundAquis-2_files/piaget.png){.absolute top=10 left=20 width=1.7in}
+![Lev Vygotsky](FundAquis-2_files/vygotsky.png){.absolute top=200 left=20 width=1.7in}
+![Henri Wallon](FundAquis-2_files/wallon.png){.absolute bottom=120 left=30 width=1.7in}
+:::
+
+::: {.column width="80%"}
+> Enfocou  o desenvolvimento cognitivo e a construção do conhecimento pela criança.
+
+> Enfatizou a importância das interações sociais e da cultura na aquisição da linguagem.
+
+> Enfocou a linguagem como uma expressão das emoções e como uma ferramenta para a comunicação e o desenvolvimento.
+:::
+
+
+::::
+
+
+## Competência Comunicativa
+
+- Dell Hymes (em contrapartida ao conceito de competência linguística de Chomsk)
+- Capacidade de um indivíduo de usar a linguagem de maneira eficaz e apropriada em contextos de comunicação reais, indo além das regras gramaticais e estruturas linguísticas
+- Envolve: uso contextual da linguagem, compreensão pragmática, variação linguística, compreensão de contexto, negociação de significado, e desenvolvimento contínuo
+
+
+## Implicações Práticas
+- Como pais e educadores podem aplicar a ótica sociointeracionista?
