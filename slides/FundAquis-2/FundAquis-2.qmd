@@ -4,7 +4,7 @@ author: "Ronaldo Lima Jr."
 institute: "Universidade de Brasília (UnB)"
 format: 
   revealjs: 
-    theme: moon
+    theme: serif
 editor: visual
 ---
 
@@ -156,7 +156,9 @@ From <https://youtu.be/iywfSC-_08E?si=O8y4duzkjTFmPEEJ>
   - a linguagem desempenha um papel crucial na ZDP, onde as interações sociais e linguísticas ajudam a criança a avançar em seu desenvolvimento linguístico.
 
 
-## {background-color="white" background-image="FundAquis-2_files/zdp.png"}
+## {background-color="white"}
+
+![](FundAquis-2_files/zdp.png)
 
 ## Teoria de Vygotsky
 - ZDP
@@ -230,3 +232,65 @@ From <https://youtu.be/iywfSC-_08E?si=O8y4duzkjTFmPEEJ>
 
 ## Implicações Práticas
 - Como pais e educadores podem aplicar a ótica sociointeracionista?
+
+# Conexionismo
+
+## Introdução
+
+- Teoria da psicologia cognitiva que oferece uma explicação da aquisição da linguagem com base em princípios da *computação neural* e *processamento paralelo distribuído* 
+
+. . . 
+
+- Aquisição da linguagem é vista como um processo de *aprendizado* baseado na interconexão de *unidades de processamento elementares*, chamadas de *neurônios artificiais* ou nodos, em redes neurais artificiais
+
+# Principais pontos do Conexionismo
+
+## 1. Unidades de processamento Neurais
+
+- No modelo conexionista, as unidades de processamento representam conceitos, palavras ou fonemas
+- Cada unidade é conectada a outras unidades por meio de conexões (pesos sinápticos) que podem ser fortalecidas ou enfraquecidas com base na exposição a dados linguísticos
+
+## 2. Aprendizado 
+
+- A aquisição da linguagem no conexionismo é vista como um processo de *aprendizado estatístico* 
+- As conexões entre as unidades são ajustadas com base na frequência com que as palavras ou conceitos co-ocorrem em contextos linguísticos 
+  - Isso é feito através de algoritmos de treinamento que ajustam os pesos sinápticos para minimizar erros de previsão.
+
+## 3. Processamento paralelo 
+
+- As redes neurais artificiais no conexionismo processam informações de forma paralela, o que significa que várias unidades estão ativas simultaneamente e contribuem para o processamento da linguagem 
+- Isso reflete a ideia de que a aquisição da linguagem envolve a consideração de múltiplos fatores linguísticos ao mesmo tempo.
+
+## 4. Generalização 
+
+- As redes podem aprender padrões linguísticos a partir de dados limitados e, em seguida, aplicar esse conhecimento para compreender e produzir novas sentenças ou palavras que nunca foram encontradas durante o treinamento
+
+## 5. Plasticidade 
+
+- As redes neurais no conexionismo são plásticas, o que significa que podem se adaptar a mudanças na linguagem ao longo do tempo 
+- Isso reflete a capacidade das crianças de aprender novas palavras e regras gramaticais à medida que são expostas a mais dados linguísticos
+
+## 6. Erros de produção 
+
+- O conexionismo também pode explicar erros comuns de produção linguística 
+- Quando as conexões são fracas ou os pesos sinápticos não foram ajustados corretamente, isso pode levar a erros de produção, como trocar sons, palavras ou construções linguísticas.
+
+## Rede Neural
+
+![](FundAquis-2_files/neural-network.mov){.r-stretch}
+
+::: aside
+Fonte: <https://youtu.be/ITwpDxx0UBE?si=uF-xJlUHQl5HEcL7>
+:::
+
+## Exemplo de pesquisa 
+
+```{=html}
+<iframe width="780" height="700" src="https://econtents.bc.unicamp.br/inpec/index.php/joss/article/view/15863/10783" title="Webpage example"></iframe>
+```
+
+##
+
+*Em resumo:*
+
+> o conexionismo fornece uma abordagem baseada em modelos computacionais que descrevem a aquisição da linguagem como um processo de aprendizado estatístico, no qual as redes neurais artificiais adaptam suas conexões com base na exposição a dados linguísticos. Essa teoria pode explicar como as crianças adquirem a linguagem e como os adultos processam e produzem fala de maneira eficaz.
