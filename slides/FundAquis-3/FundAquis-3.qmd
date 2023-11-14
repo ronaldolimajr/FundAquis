@@ -1,0 +1,150 @@
+---
+title: "Fundamentos de Aquisição da Linguagem"
+author: "Ronaldo Lima Jr."
+institute: "Universidade de Brasília (UnB)"
+format: 
+  revealjs: 
+    theme: serif
+editor: visual
+---
+
+# Teorias de Aquisição de segunda língua
+
+# Behaviorismo
+
+## Behaviorismo
+
+A visão behaviorista de aquisição de L2 compartilha dos mesmos princípios de sua visão de aquisição de L1: 
+
+- Aquisição de segunda língua ocorre por meio da criação de hábitos, através da imitação/repetição e de estímulos e reforços
+- *Estímulo-Resposta*: A aprendizagem ocorre por associação de estímulos externos com respostas desejadas
+- *Reforço*: Reforçar respostas corretas aumenta a probabilidade de sua repetição
+
+## Behaviorismo
+
+As críticas também foram as mesmas: 
+
+- *Reducionismo*: A abordagem simplifica a complexidade da aquisição de linguagem
+- *Ignora Processos Mentais*: Não leva em consideração a compreensão interna e processos cognitivos envolvidos na aprendizagem de uma língua
+
+## Aplicação ao ensino de L2 {style="font-size: 90%;"}
+
+O behaviorismo aplicado ao ensino de L2 fez surgir um método de ensino chamada de *Método Audiolingal*, também conhecido como *Army Method*
+
+- Surgiu nos EUA durante a década de 1950, influenciado por teorias behavioristas e por encomenda das formças armadas durante a Guerra Fria
+- O enfoque era no desenvolvimento das habilidades auditivas e orais
+- Fazia uso intensivo de repetição (*drills*) para reforçar estruturas linguística e para automatizar respostas corretas
+- Estudantes imitavam modelos nativos para desenvolver pronúncia "correta/autêntica", e memorizavam diálogos e frases para promover fluência
+
+## Críticas
+
+- Foco excessivo em padrões específicos pode limitar a habilidade dos alunos de se adaptarem a diversas situações linguísticas
+- Pouca Ênfase em produção e compreensão escrita
+- Ênfase excessiva em diálogos pré-fabricados, sem espaço para personalização da aprendizagem, uso genuíno da comunicação, e contextualização de acordo com as necessidades dos aprendizes
+
+## Exemplo
+
+::: aside
+From <https://youtu.be/Pz0TPDUz3FU?si=m8rTd5SwhOUnZXY6&t=247>
+:::
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/Pz0TPDUz3FU?si=m8rTd5SwhOUnZXY6&amp;start=247" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</iframe>
+
+
+# Inatismo
+
+## Inatismo
+
+- Trata-se da aplicação do Inatismo proposto por Chomsky para aquisição de L1 à aquisição de L2
+- Muitas pesquisas buscaram verificar a existência de uma Gramática Universal (GU) na aquisição de L2
+- Sua aplicação ao ensino de L2 se deu pela proposta do Modelo Monitor, de Stephen Krashen (1978), composto por 5 hipóteses
+
+## Modelo Monitor
+
+1. Hipótese da **Aquisição x Aprendizagem:**
+   - **Aquisição:** Processo natural e subconsciente de assimilar a linguagem através da exposição (gerando conhecimento implícito)
+   - **Aprendizagem:** Processo consciente de compreender e aplicar regras gramaticais (gerando conhecimento explícito)
+   
+---
+
+2. Hipótese da **Aquisição-Aprendizagem:**
+   - A aquisição é a responsável para desenvolver fluência linguística em uma L2
+   - Um falante só consegue acessar o sistema *adquirido* (conhecimento implícito) enquanto utiliza a L2
+      + Um falante só consegue acessar o sistema aprendido (conhecimento explícito) quando tem tempo de parar para *monitorar* a sua língua
+
+---
+
+3. Hipótese do **Input:**
+   - O input compreensível, ou seja, a exposição à linguagem que é um pouco além do nível atual do aprendiz (i+1), é essencial para a aquisição efetiva
+   - Input significativo é mais valioso do que instrução explícita
+   
+---
+
+4. Hipótese do **Filtro Afetivo:**
+   - Fatores afetivos, como motivação, ansiedade e confiança, influenciam a eficácia da aquisição linguística, criando um filtro emocional que bloqueira o *input*, não permitindo que ele se torne *intake*
+   
+---
+
+5. Hipótese do **Monitor:**
+   - O "Monitor" refere-se à capacidade de monitorar e corrigir a produção linguística
+   - Ele só pode ser acessado quando se tem tempo para pensar sobre o conheicmento explícito
+
+## Críticas {style="font-size: 90%;"}
+
+- **Validade Empírica Limitada:** as hipóteses do Modelo Monitor não podem ser testadas de maneira objetiva por meio de experimentos
+
+- **Sobrevalorização da Aquisição Natural:** a aprendizagem formal pode desempenhar um papel mais significativo em certos contextos ou para certos indivíduos
+
+- **Falta de Atendimento à Diversidade Individual:** O Modelo não aborda adequadamente as necessidades individuais -- Alguns alunos podem se beneficiar mais de métodos mais formais ou estruturados.
+
+- **Abordagem Passiva da Aprendizagem:** o Modelo pode levar a uma abordagem passiva da aprendizagem, desconsiderando a importância da participação ativa e do envolvimento do aluno no processo de aprendizagem de línguas
+
+## Krashen ilustrando o Modelo
+
+::: aside
+From <https://youtu.be/NiTsduRreug?si=PRAt4UHxli0xb8fu>
+:::
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/NiTsduRreug?si=PRAt4UHxli0xb8fu&amp;start=247" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</iframe>
+
+# Hipótese do output
+
+Proposta por Merrill Swain, não invalidava o papel do *input*, mas acreditava que *input compreensível* não era suficiente. Principais características:
+
+- **Papel do Output na Aquisição:** Swain destaca a importância da produção linguística -- *output* -- no processo de aquisição de segunda língua
+
+- **Consciência na Produção:** a hipótese sugere que a produção ativa de linguagem, especialmente ao tentar expressar conceitos complexos, leva a uma maior *conscientização* linguística
+
+--- 
+
+- **Geração de Hipóteses:** ao produzir *output*, os aprendizes são desafiados a *formular hipóteses* linguísticas e a *refletir* sobre as estruturas da língua
+
+- **Feedback Cognitivo:** a produção de output permite que os aprendizes recebam feedback cognitivo sobre suas tentativas, facilitando a internalização de regras gramaticais e vocabulário
+
+- **Papel da Comunicação:** a hipótese destaca que a produção de output é essencial para a comunicação efetiva, especialmente em situações em que os aprendizes estão envolvidos em interações significativas
+
+## Aplicações Pedagógicas
+
+- **Ênfase na Produção Ativa:** recomenda a promoção de atividades que incentivem os alunos a produzir linguagem de maneira significativa, em vez de apenas receber input passivo
+
+- **Atenção à Correção e Feedback:** destaca a importância de fornecer feedback construtivo sobre a produção linguística dos alunos, permitindo que eles corrijam e aprimorem suas habilidades
+
+- **Abordagem Centrada na Tarefa:** pode apoiar abordagens centradas em tarefas, onde os alunos são desafiados a realizar atividades que envolvem a produção de output para alcançar objetivos específicos
+
+## {background-color="white" background-image="FundAquis-3_files/output.png" background-size=70%}
+
+## {background-color="white" background-image="FundAquis-3_files/input.png" background-size=90%}
+
+
+
+# (Socio)Interacionismo
+
+# Conexionismo
+
+# Modelo de Aculturação
+
+# Dinamicismo / Teoria da Complexidade
