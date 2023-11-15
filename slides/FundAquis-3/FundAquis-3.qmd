@@ -67,13 +67,16 @@ From <https://youtu.be/Pz0TPDUz3FU?si=m8rTd5SwhOUnZXY6&t=247>
 1.  Hipótese da **Aquisição x Aprendizagem:**
     -   **Aquisição:** Processo natural e subconsciente de assimilar a linguagem através da exposição (gerando conhecimento implícito)
     -   **Aprendizagem:** Processo consciente de compreender e aplicar regras gramaticais (gerando conhecimento explícito)
-
-------------------------------------------------------------------------
-
-2.  Hipótese da **Aquisição-Aprendizagem:**
     -   A aquisição é a responsável para desenvolver fluência linguística em uma L2
     -   Um falante só consegue acessar o sistema *adquirido* (conhecimento implícito) enquanto utiliza a L2
-        -   Um falante só consegue acessar o sistema aprendido (conhecimento explícito) quando tem tempo de parar para *monitorar* a sua língua
+    -   Um falante só consegue acessar o sistema aprendido (conhecimento explícito) quando tem tempo de parar para *monitorar* a sua língua
+    
+------------------------------------------------------------------------
+
+2.  Hipótese da **Ordem Natural:**
+
+- Krashen postula que aprendizes de uma L2 passarão pelas mesmas etapas de aprendizagem a despeito de suas L1s.
+ 
 
 ------------------------------------------------------------------------
 
@@ -92,7 +95,7 @@ From <https://youtu.be/Pz0TPDUz3FU?si=m8rTd5SwhOUnZXY6&t=247>
     -   O "Monitor" refere-se à capacidade de monitorar e corrigir a produção linguística
     -   Ele só pode ser acessado quando se tem tempo para pensar sobre o conheicmento explícito
 
-## Críticas {style="font-size: 90%;"}
+## Críticas {style="font-size: 80%;"}
 
 -   **Validade Empírica Limitada:** as hipóteses do Modelo Monitor não podem ser testadas de maneira objetiva por meio de experimentos
 
@@ -109,8 +112,6 @@ From <https://youtu.be/NiTsduRreug?si=PRAt4UHxli0xb8fu>
 :::
 
 <iframe width="840" height="472" src="https://www.youtube.com/embed/NiTsduRreug?si=PRAt4UHxli0xb8fu&amp;start=247" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-
-</iframe>
 
 </iframe>
 
@@ -143,6 +144,62 @@ Proposta por Merrill Swain, não invalidava o papel do *input*, mas acreditava q
 ##  {background-color="white" background-image="FundAquis-3_files/input.png" background-size="90%"}
 
 # (Socio)Interacionismo
+
+## Interacionismo
+
+- **Hatch (1978)**: A aquisição não parte da estrutura para o discurso, mas do discurso para a estrutura.
+    + Crianças com L1 e aprendizes de L2 têm uma necessidade comunicativa e usam estratégias múltiplas para alncaçar esse objetivo mesmo sem a estrutura impecável
+
+. . .
+
+- **Long (1980)**: importância do *input* + *output* -- analisou intercações entre falantes nativos e não nativos e viu o grande uso de estratégias comunicativas de ambos para se alcançar o objetivo da comunicação
+
+- - -
+
+- Papel do feedback *afetivo* e *cognitivo*
+- Papel da correção
+- Papel das estratégias comunicativas
+
+## Socio-interacionismo (Teoria Sociocultural)
+
+:::{.callout-note}
+## Lantolf & Beckett (2009)
+*O funcionamento mental humano resulta da participação em e da apropriação de formas de mediação cultural integradas em atividades sociais*
+:::
+
+. . .
+
+:::{.callout-note}
+## Lantolf & Thorne (2007)
+*Entende-se que os humanos utilizem artefatos culturais já existentes e criem novos que permitam regular suas atividades biológicas e comportamentais*
+:::
+
+## Vygotsky
+
+Principais teses
+
+- Não se pode separar o desenvolvimento da linguagem do contexto histórico e social
+- Os humanos pensam através da criação e do uso de ferramentas mediadoras
+- A linguagem tem papel importante no desenvolvimento mental, sendo ela a principal ferramenta de mediação
+
+. . .
+
+- Mediação (interação, andaimes, ZDP)
+- Automediação (fala privada)
+
+
+## Interação humana na ASL
+
+::: aside
+From: <https://youtu.be/G2XBIkHW954?si=UEo4CB9uOxyFOIVf>
+:::
+
+
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/G2XBIkHW954?si=UEo4CB9uOxyFOIVf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</iframe>
+
 
 # Conexionismo
 
