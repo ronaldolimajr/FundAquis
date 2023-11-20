@@ -203,6 +203,44 @@ From: <https://youtu.be/G2XBIkHW954?si=UEo4CB9uOxyFOIVf>
 
 # Conexionismo
 
+--- 
+
+:::{.callout-note}
+## Conexionismo
+A perspectiva conexionista é uma abordagem teórica na aquisição de segunda língua que se baseia nos princípios da *neurociência* e em *modelos computacionais* inspirados no *funcionamento do cérebro*. 
+:::
+
+. . .
+
+
+1. **Redes Neurais Artificiais (RNAs):** A teoria conexionista utiliza modelos computacionais, como redes neurais artificiais, para simular o processo de aprendizagem de uma segunda língua. Essas redes consistem em unidades interconectadas que representam neurônios, e os pesos das conexões entre essas unidades são ajustados durante o processo de aprendizagem.
+
+- - -
+
+2. **Aprendizagem Distribuída:** A perspectiva conexionista destaca a ideia de que o conhecimento linguístico é distribuído de maneira interconectada em toda a rede neural, em oposição à ideia de regras gramaticais isoladas. A aprendizagem ocorre por meio do ajuste contínuo dos pesos das conexões, com a informação sendo armazenada de maneira distribuída.
+
+. . .
+
+3. **Processo Gradual e Incremental:** A aquisição de uma segunda língua é vista como um processo gradual e incremental, no qual os aprendizes acumulam conhecimento ao longo do tempo. A exposição constante à língua-alvo leva a ajustes contínuos nas conexões neurais, resultando em melhorias na proficiência linguística.
+
+- - -
+
+4. **Influência da Experiência:** A teoria conexionista destaca a importância da experiência na aprendizagem de uma segunda língua. A exposição a diferentes contextos linguísticos e a prática constante são fatores cruciais para o desenvolvimento linguístico.
+
+. . .
+
+5. **Generalização e Flexibilidade:** As redes neurais conexionistas são capazes de generalizar padrões aprendidos para novas situações, proporcionando flexibilidade na aplicação do conhecimento linguístico. Isso reflete a capacidade dos aprendizes de adaptar seu conhecimento a uma variedade de contextos linguísticos.
+
+## Redes Neurais Artificiais
+
+::: aside
+From: <https://youtu.be/1_c_MA1F-vU?si=jGAiq1ex5vzMBP4o>
+:::
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/1_c_MA1F-vU?si=jGAiq1ex5vzMBP4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</iframe>
+
 # Modelo de Aculturação
 
 # Dinamicismo / Teoria da Complexidade
