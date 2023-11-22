@@ -241,6 +241,86 @@ From: <https://youtu.be/1_c_MA1F-vU?si=jGAiq1ex5vzMBP4o>
 
 </iframe>
 
+## Aplicações para a sala de aula
+- Importância de equilibrar input e output (exposição e produção)
+- Testar hipóteses e obter feedback
+- Practicar, revisar, avançar a voltar --> ensino cíclico
+- Se a aquisição é estocástica, é preciso reforçar na sala de aula os aspectos mais importantes
+
 # Modelo de Aculturação
+
+## Para pensar:
+- Por que se diz que língua e cultura são interconectadas? Consegue pensar em exemplos?
+- É preciso gostar/admirar a cultura da L2 para poder adquirir a L2? Ajuda? Por quê (não)?
+
+. . . 
+
+- Qual cultura um aprendiz de inglês-L2 deve aprender ao estudar inglês?
+- Qual cultura um aprendiz de português-L2 deve aprender ao estudar português?
+
+## Para pensar:
+
+- Consegue pensar em exemplos culturais do Brasil fortemente conectados a língua e que podem ser explorados em sala de aula de português-L2? 
+
+## Modelo de Aculturação
+
+Aprender uma nova língua não é apenas adquirir novas formas linguísticas, mas também envolve a compreensão e incorporação da cultura associada a essa língua. Principais pontos:
+
+. . .
+
+1. **Integração Cultural:** A aculturação destaca a importância de se integrar à cultura da língua-alvo. Isso inclui compreender normas sociais, valores, tradições e comportamentos típicos da comunidade que fala a língua que está sendo aprendida.
+
+- - -
+
+2. **Contextualização Social:** A aprendizagem da língua é vista como parte de um processo social mais amplo. Interagir com falantes nativos e participar de atividades culturais são considerados aspectos essenciais para o desenvolvimento da proficiência na língua.
+
+. . . 
+
+3. **Adaptação Cultural:** Os aprendizes de segunda língua são incentivados a se adaptar culturalmente, o que pode envolver mudanças na maneira de pensar, comportar-se e se comunicar. Isso contribui para uma comunicação mais eficaz e autêntica na nova língua.
+
+- - - 
+
+4. **Consciência Intercultural:** A consciência intercultural é um componente fundamental, pois os aprendizes são encorajados a compreender e apreciar as diferenças culturais entre sua língua nativa e a língua que estão aprendendo. Isso ajuda a evitar mal-entendidos e promove uma comunicação mais eficaz.
+
+. . .
+
+5. **Aprendizagem Integrada:** O modelo da aculturação sugere que a aprendizagem da língua e da cultura devem ser integradas, em vez de separadas. Isso significa que as habilidades linguísticas são desenvolvidas em conjunto com a compreensão cultural para uma experiência de aprendizagem mais completa.
+
+- - -
+
+O Modelo da Aculturação (*Acculturation Model*) de John H. Schumann (1978):
+
+. . .
+
+1. **Fatores Afetivos e Sociais:** Schumann destaca a importância de fatores afetivos e sociais na aquisição de uma segunda língua. Ele sugere que atitudes emocionais e interações sociais influenciam significativamente o processo de aprendizagem.
+
+. . . 
+
+2. **Aculturação:** O termo "aculturação" refere-se à integração do aprendiz na comunidade que fala a segunda língua. Schumann argumenta que quanto mais o aprendiz se acultura à comunidade-alvo, maior será a probabilidade de sucesso na aquisição da língua.
+
+- - -
+
+3. **Variáveis de Aculturação:** Schumann identifica três variáveis principais que afetam a aculturação e, por conseguinte, a aquisição da segunda língua:
+   - **Motivação:** A motivação do aprendiz para se integrar à comunidade falante da segunda língua.
+   - **Autoconfiança/Ansiedade:** O nível de confiança ou ansiedade experimentado pelo aprendiz ao se comunicar na segunda língua.
+   - **Adaptação Social:** A habilidade do aprendiz de se adaptar socialmente à comunidade-alvo.
+
+- - -
+
+4. **Períodos Críticos:** Schumann sugere que existe um "período crítico" durante o qual a aculturação é mais eficaz. Durante esse período, os aprendizes têm uma maior probabilidade de desenvolver proficiência linguística.
+
+. . .
+
+5. **Saída Linguística:** Schumann destaca a importância da "saída linguística", ou seja, a produção ativa da língua-alvo. Ele argumenta que os aprendizes que se envolvem ativamente na comunicação têm maior probabilidade de se aculturar e, portanto, adquirir a língua com sucesso.
+
+## Exemplo de pesquisa
+
+```{=html}
+<iframe width="780" height="700" src="https://seer.ufrgs.br/index.php/organon/article/view/122646/85522" title="Webpage example"></iframe>
+```
+
+## Críticas
+
+- Não se trata de uma Teoria que abarque a aquisição como um todo, mas de um Modelo que vislumbra acerca de um (importante) aspecto do desenvolvimento de uma nova língua.
 
 # Dinamicismo / Teoria da Complexidade
