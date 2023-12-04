@@ -324,3 +324,26 @@ O Modelo da Aculturação (*Acculturation Model*) de John H. Schumann (1978):
 - Não se trata de uma Teoria que abarque a aquisição como um todo, mas de um Modelo que vislumbra acerca de um (importante) aspecto do desenvolvimento de uma nova língua.
 
 # Dinamicismo / Teoria da Complexidade
+
+## Teoria de Sistemas Dinâmicos Complexos
+
+Trata-se de uma Teoria *geral* (não específica de uma área do conhecimento) que busca explicar e modelar o comportamento de sistemas da natureza que são, entre outras características: 
+
+- complexos
+- dinâmicos
+- não lineares 
+
+## Teoria de Sistemas Dinâmicos Complexos
+
+- adaptativos 
+- auto-organizadores
+- sensíveis a estados iniciais 
+- estados atratores
+- emergente
+- fractal
+
+# Outros tópicos
+
+- Fatores individuais
+- Feedback e correção de erros
+- Interlíngua
